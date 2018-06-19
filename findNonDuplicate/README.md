@@ -21,6 +21,7 @@ Output:  4
 
 ## Architechture
 Python 3.6.4
+https://goo.gl/YCcUjE - pythontutor.com
 
 
 
